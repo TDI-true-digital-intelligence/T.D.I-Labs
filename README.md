@@ -1,26 +1,13 @@
 <div align="center">
 
+<img src="logo.png" width="220" alt="AGI Digital" />
+
 # AGI DIGITAL
 
-### Building TDI — Agentic OS
+**Building TDI — Agentic OS**
 
-**True Digital Intelligence · All-in-One Agentic Operating System**
+True Digital Intelligence. Born on hardware, raised in the open.
 
-Hard at work, every day. Most of the build happens in private — the graph tells the story.
-
-</div>
-
----
-
-<div align="center">
-
-## Current Public Projects
-
-| Project | What it is |
-|---|---|
-| [**tdi-true-digital**](https://github.com/agi-digital-dot/tdi-true-digital) | TDI — True Digital Intelligence core |
-| [**trezor-mint-kit**](https://github.com/agi-digital-dot/trezor-mint-kit) | Trezor hardware-wallet mint kit |
+[TDI token](https://github.com/agi-digital-dot/tdi-true-digital) · [Trezor Mint Kit](https://github.com/agi-digital-dot/trezor-mint-kit)
 
 </div>
-
-<div align="center"><sub>— AGI DIGITAL · Australian-owned AI infrastructure —</sub></div>
