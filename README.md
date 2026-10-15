@@ -14,7 +14,7 @@ Hard at work, every day. Most of the build happens in private — the graph tell
 
 <div align="center">
 
-## 🔨 Current Public Projects
+## Current Public Projects
 
 | Project | What it is |
 |---|---|
