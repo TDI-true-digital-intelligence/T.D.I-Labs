@@ -6,7 +6,7 @@
 
 **T.D.I** - True Digital Intelligence 
 
-**Currrently Building:** Agentic Operating Systems
+**Currrently Building:** Agentic Operating Systems - Vibe Coded Ubuntu APPs & Dapps
 
 [TDI token](https://github.com/agi-digital-dot/tdi-true-digital) · [Trezor Mint Kit](https://github.com/agi-digital-dot/trezor-mint-kit) · [SPINE Console](https://github.com/agi-digital-dot/spine-console-v1)
 
