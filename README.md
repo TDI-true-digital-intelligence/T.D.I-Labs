@@ -3,7 +3,7 @@
 <img src="logo.png" width="220" alt="AGI Digital" />
 
 # T.D.I
-# True Digital Intelligence 
+True Digital Intelligence 
 
 **Currrently Building:** 
 - Agentic Operating Systems
