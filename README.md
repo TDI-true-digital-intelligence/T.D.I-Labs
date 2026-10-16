@@ -4,7 +4,7 @@
 
 # AGI DIGITAL
 
-**Building TDI**
+**T.D.I**
 
 True Digital Intelligence.
 
