@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="220" alt="AGI Digital" />
 
-# T.D.I - 'True Digital Intelligence'
+# TDI - True Digital Intelligence
 
 
 **Currrently Building:** 
