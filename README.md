@@ -10,7 +10,7 @@
 - Agentic OS Dashboards
 - Vibe coded Ubuntu Applications
 - De-Centralized Applications on the Blockchain
-- Web3 Applications & Blockchain Secuity Hardware Scripts
+- Web3 Applications & Blockchain Security Hardware Scripts
 
 [TDI token](https://github.com/agi-digital-dot/tdi-true-digital) · [Trezor Mint Kit](https://github.com/agi-digital-dot/trezor-mint-kit) · [SPINE Console](https://github.com/agi-digital-dot/spine-console-v1)
 
