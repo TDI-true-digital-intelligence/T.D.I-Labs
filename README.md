@@ -7,6 +7,7 @@
 
 **Currrently Building:** 
 - Agentic Operating Systems
+- Agentic Dashboards
 - Vibe coded Ubuntu Applications
 - Defi DApps
 
