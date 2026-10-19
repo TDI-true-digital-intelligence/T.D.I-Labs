@@ -6,9 +6,9 @@
 
 
 **Currrently Building:** 
-- Agentic Operating Systems
+- Agentic 'T.D.I Labs' Operating System
 - Agentic OS Dashboards
-- Ubuntu 24.04+ Operating System Applications
+- Ubuntu 24.04+ OS Applications
 - De-Centralized Applications on the Blockchain
 - Web3 Applications & Blockchain Security Hardware Scripts
 
