@@ -8,7 +8,7 @@
 **Currrently Building:** 
 - Agentic Operating Systems
 - Agentic OS Dashboards
-- Vibe coded Ubuntu Applications
+- Ubuntu 24.04+ Operating System Applications
 - De-Centralized Applications on the Blockchain
 - Web3 Applications & Blockchain Security Hardware Scripts
 
